@@ -1,8 +1,11 @@
-Step 1: Decide wheree to get pizza from
-Step 2:DEcide what kind of Pizza to get
+Step 1: Decide where to get pizza from
+Step 1A: make sure place is open
+Step 2:Decide what kind of Pizza to get
+Step 2A: Decide on back up option
 Step 3: Call Pizza shop 
 Step 4: PLace order
 Step 5: wait for pizza
 Step 6: decide what to watch while eating pizza
+Step 6A: Make sure you have streaming platform to watch what you decided
 Step 7:pay for Pizza
 Step 8: eat Pizza
